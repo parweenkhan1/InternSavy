@@ -29,3 +29,30 @@ To predict Graduate Admissions from an Indian perspective using a classification
 Remember, the success of the prediction depends on the quality and diversity of the dataset, as well as the choice of the appropriate classification algorithm. Additionally, ensure ethical considerations and fairness are taken into account during the model development process.
 
 #########################################################################################################################################################
+
+
+
+
+
+TASK-4
+
+Cricket Player Performance Prediction using Machine Learnin
+------------------------------------------------------------
+Problem Statement:-
+The main objective of this project is to develop machine learning models that can accurately predict the performance of cricket players in upcoming matches. The prediction can be based on various player attributes, historical performance, playing conditions, opponent strength, and other relevant factors.
+
+Dataset:-
+The dataset used in this project contains historical player statistics from various cricket matches, including batting averages, bowling averages, strike rates, number of centuries, wickets taken, etc. The dataset may also include details about the playing conditions, team performance, and opponent team's performance.
+
+Goals
+The key goals of this project are as follows:
+
+1.Data Collection and Preprocessing: Gather historical player data from reliable sources, clean the dataset, and handle any missing or erroneous values. 
+2.Feature Engineering: Identify relevant features and create new features to represent player performance attributes effectively.
+3.Exploratory Data Analysis (EDA): Perform data exploration to understand the distribution of features, correlations, and key performance indicators of players.
+4.Model Selection: Choose appropriate machine learning algorithms for regression or classification tasks based on the prediction requirements.
+5.Model Training: Train the selected machine learning models on the prepared dataset to learn patterns and relationships between player attributes and performance.
+6.Model Evaluation: Evaluate the performance of the trained models using suitable metrics such as Mean Absolute Error (MAE) or Root Mean Squared Error (RMSE).
+7.Model Optimization: Fine-tune the model hyperparameters and explore ensemble techniques to improve prediction accuracy.
+8.Prediction and Deployment: Use the trained models to make predictions on new data and deploy the models for real-time performance estimation. 
+
